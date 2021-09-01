@@ -126,6 +126,15 @@ class: inverse, middle
 
 ---
 
+# Economia circular e cadeia de suprimentos
+
+Recursos cada vez mais escassos, índices de poluição elevados, desmatamentos incontroláveis e vasta extensão de lixo são algumas das consequências da atual economia. Esse modelo, que gera desperdício e desgaste do planeta, tem um limite e pode estar com os dias contatos.
+Ao unificar as pontas da cadeia de geração e consumo de bens, a economia circular tem a capacidade de revolucionar toda a economia, com impactos positivos para o meio ambiente e a sociedade como um todo. Esse artigo aborda o conceito de economia circular e apresenta diferentes esforços e inovações que vem transformando a supply chain nesse caminho.
+
+
+
+---
+
 # Revisão da distribuição de pontos
 
 Pontos|	Entrega|	Atividade
